@@ -1,6 +1,6 @@
 ---
 website: "Centro de Medicina de Reabilitação de Alcoitão"          # Entre as aspas escreve o nome do website
-date: "31/12/1999"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
+date: "24/09/2026"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
 uri: "https://cmra.scml.pt"   # Entre as aspas escreve o domínio do website
 a11y_statement: "https://cmra.scml.pt/declaracao-acessibilidade/" # Entre as aspas escreve o URL da Declaração de Acessibilidade do website
 a11y_statement_date: "dd/mm/aaaa"  # Entre as aspas escreve a data da Declaração de Acessibilidade
@@ -30,7 +30,7 @@ Consulte aqui a última atualização: [Relatório {{ page.website }}](report.ht
 <details>
   <summary>Histórico de atualizações</summary>
   <ul aria-label="lista de relatórios já efetuados">
-    <li><a href="09102026_report.html">(dd/mm/aaaa). Relatório {{ page.website }}</a></li>
+    <li><a href="09102026_report.html">(09/10/2026). Relatório {{ page.website }}</a></li>
   </ul>
 </details>
 
